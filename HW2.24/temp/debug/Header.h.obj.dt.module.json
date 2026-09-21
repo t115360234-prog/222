@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "..\\..\\temp\\debug\\Header.obj",
+            "outputs": [
+                "..\\..\\temp\\debug\\Header.h.obj.dt.module.json",
+                "..\\..\\temp\\debug\\Header.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
